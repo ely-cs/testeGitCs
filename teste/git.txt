@@ -1,0 +1,5 @@
+git add
+git commit -m"Adiciona"
+Git log --oneline
+Git branch -r
+Git checkout master
